@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Calculate BMR";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="CalculateBmr" method="post">
+    <div class="form-group">
+        <label for="weight">Weight (kg):</label>
+        <input type="text" class="form-control" id="weight" name="weight" required />
+    </div>
+    <div class="form-group">
+        <label for="height">Height (cm):</label>
+        <input type="text" class="form-control" id="height" name="height" required />
+    </div>
+    <div class="form-group">
+        <label for="age">Age:</label>
+        <input type="text" class="form-control" id="age" name="age" required />
+    </div>
+    <div class="form-group">
+        <label for="gender">Gender:</label>
+        <select class="form-control" id="gender" name="gender" required>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Calculate BMR</button>
+</form>
+
+@if (ViewBag.Bmr != null)
+{
+    <div class="alert alert-info">
+        <strong>BMR:</strong> @ViewBag.Bmr kcal/day
+    </div>
+}

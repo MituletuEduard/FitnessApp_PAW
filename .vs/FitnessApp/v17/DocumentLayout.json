@@ -1,0 +1,951 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\bmr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\bmr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\history\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\history\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\history\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\history\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\history\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\history\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\exercise\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\exercise\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\exercise\\iexerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\exercise\\iexerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\exercises\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\exercises\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\bmrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\bmrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\antrenamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\antrenamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\imasuratoriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\imasuratoriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\measurementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\measurementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\masuratoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\masuratoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\measurement\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\measurement\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\timer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\timer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\timer\\timerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\timer\\timerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Anul 3\\sem2\\PAW\\FitnessApp_v3\\FitnessApp\\Migrations\\20240523094320_InitialTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\timercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\timercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\timer\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\timer\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\timer\\itimerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\timer\\itimerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\timer\\itimerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\timer\\itimerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\models\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\migrations\\20240516194630_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\migrations\\20240516194630_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\controllers\\utilizatorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\controllers\\utilizatorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitul\\AppData\\Local\\Temp\\.vsdbgsrc\\be7aa66389743425884c4b45b492ff889ca282677a9fc6d0fb489c554642a572\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\masuratori\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\masuratori\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\models\\masuratoricreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\masuratoricreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\imasuratorirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\imasuratorirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\masuratorirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\masuratorirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\services\\masuratoriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\services\\masuratoriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\models\\masuratori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\masuratori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\models\\antrenament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\antrenament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\models\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\antrenaments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\antrenaments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\views\\antrenaments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\views\\antrenaments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Anul 3\\sem2\\LFA\\FitnessApp\\FitnessApp\\Controllers\\BlogsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\migrations\\20240525215257_updateexercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\migrations\\20240525215257_updateexercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|c:\\anul 3\\sem2\\paw\\fitnessapp_v8-contact\\fitnessapp\\migrations\\20240525212102_updateexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD37A05-B4EE-40B1-B212-8486346C4C3A}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\migrations\\20240525212102_updateexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:24:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IExerciseRepository.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Exercise\\IExerciseRepository.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\Exercise\\IExerciseRepository.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Exercise\\IExerciseRepository.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\Exercise\\IExerciseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:51:31.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:20:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Bmr\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Bmr\\Index.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Bmr\\Index.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Bmr\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:34:43.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T13:49:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:55:56.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\History\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\History\\Delete.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\History\\Delete.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\History\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:58:38.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\History\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\History\\Index.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\History\\Index.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\History\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:02:57.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240525215257_UpdateExercise2.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Migrations\\20240525215257_UpdateExercise2.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Migrations\\20240525215257_UpdateExercise2.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Migrations\\20240525215257_UpdateExercise2.cs",
+              "RelativeToolTip": "FitnessApp\\Migrations\\20240525215257_UpdateExercise2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:52:57.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\History\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\History\\Edit.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\History\\Edit.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\History\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:58:18.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExercisesController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\ExercisesController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\ExercisesController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\ExercisesController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\ExercisesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:56:08.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExerciseRepository.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Exercise\\ExerciseRepository.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\Exercise\\ExerciseRepository.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Exercise\\ExerciseRepository.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\Exercise\\ExerciseRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:53:00.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\HistoryController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\HistoryController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:58:45.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Exercises\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Exercises\\Index.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Exercises\\Index.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Exercises\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:01:05.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240525212102_UpdateExercise.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Migrations\\20240525212102_UpdateExercise.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Migrations\\20240525212102_UpdateExercise.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Migrations\\20240525212102_UpdateExercise.cs",
+              "RelativeToolTip": "FitnessApp\\Migrations\\20240525212102_UpdateExercise.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:21:02.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\Exercise.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Exercise.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\Exercise.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:49:42.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Program.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Program.cs",
+              "RelativeToolTip": "FitnessApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:43:52.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FitnessApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FitnessApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-16T17:52:04.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AntrenamentsController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\AntrenamentsController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\AntrenamentsController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\AntrenamentsController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\AntrenamentsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:05:43.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMasuratoriService.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\IMasuratoriService.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\IMasuratoriService.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\IMasuratoriService.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\IMasuratoriService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:10:57.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MeasurementsController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\MeasurementsController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\MeasurementsController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\MeasurementsController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\MeasurementsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:48:46.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\ApplicationContext.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\ApplicationContext.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAuwE0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:37:09.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BmrController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\BmrController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\BmrController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\BmrController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\BmrController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:33:22.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MasuratoriController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\MasuratoriController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\MasuratoriController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\MasuratoriController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\MasuratoriController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:54:58.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FitnessApp\\appsettings.json",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\appsettings.json",
+              "RelativeToolTip": "FitnessApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T19:48:35.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITimerService.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Timer\\ITimerService.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\Timer\\ITimerService.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Timer\\ITimerService.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\Timer\\ITimerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:24:13.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TimerService.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Timer\\TimerService.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\Timer\\TimerService.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Timer\\TimerService.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\Timer\\TimerService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:24:39.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MeasurementService.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Measurement\\MeasurementService.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\Measurement\\MeasurementService.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Measurement\\MeasurementService.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\Measurement\\MeasurementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:17:22.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TimerController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\TimerController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\TimerController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\TimerController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\TimerController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:37:21.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Timer\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Timer\\Index.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Timer\\Index.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Timer\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:38:17.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Timer.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\Timer.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Timer.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\Timer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:57:53.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TimerRepository.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Timer\\TimerRepository.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\Timer\\TimerRepository.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Timer\\TimerRepository.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\Timer\\TimerRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:23:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240523094320_InitialTimer.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v3\\FitnessApp\\Migrations\\20240523094320_InitialTimer.cs",
+              "RelativeDocumentMoniker": "..\\FitnessApp_v3\\FitnessApp\\Migrations\\20240523094320_InitialTimer.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v3\\FitnessApp\\Migrations\\20240523094320_InitialTimer.cs",
+              "RelativeToolTip": "..\\FitnessApp_v3\\FitnessApp\\Migrations\\20240523094320_InitialTimer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:43:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITimerRepository.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Timer\\ITimerRepository.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\Timer\\ITimerRepository.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\Timer\\ITimerRepository.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\Timer\\ITimerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:22:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MasuratoriCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\MasuratoriCreateViewModel.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\MasuratoriCreateViewModel.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\MasuratoriCreateViewModel.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\MasuratoriCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:42:57.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Masuratori\\Create.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Masuratori\\Create.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Masuratori\\Create.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Masuratori\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:39:08.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MasuratoriService.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\MasuratoriService.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\MasuratoriService.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\MasuratoriService.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\MasuratoriService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:11:41.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MasuratoriRepository.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\MasuratoriRepository.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\MasuratoriRepository.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\MasuratoriRepository.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\MasuratoriRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:10:03.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IMasuratoriRepository.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\IMasuratoriRepository.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Services\\IMasuratoriRepository.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Services\\IMasuratoriRepository.cs",
+              "RelativeToolTip": "FitnessApp\\Services\\IMasuratoriRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:09:18.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Antrenament.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Antrenament.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\Antrenament.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Antrenament.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\Antrenament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:37:42.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:06:57.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240516194630_IdentityTables.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Migrations\\20240516194630_IdentityTables.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Migrations\\20240516194630_IdentityTables.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Migrations\\20240516194630_IdentityTables.cs",
+              "RelativeToolTip": "FitnessApp\\Migrations\\20240516194630_IdentityTables.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:46:31.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:04:53.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:53:33.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mitul\\AppData\\Local\\Temp\\.vsdbgsrc\\be7aa66389743425884c4b45b492ff889ca282677a9fc6d0fb489c554642a572\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\mitul\\AppData\\Local\\Temp\\.vsdbgsrc\\be7aa66389743425884c4b45b492ff889ca282677a9fc6d0fb489c554642a572\\Program.cs",
+              "ToolTip": "C:\\Users\\mitul\\AppData\\Local\\Temp\\.vsdbgsrc\\be7aa66389743425884c4b45b492ff889ca282677a9fc6d0fb489c554642a572\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\mitul\\AppData\\Local\\Temp\\.vsdbgsrc\\be7aa66389743425884c4b45b492ff889ca282677a9fc6d0fb489c554642a572\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:33:40.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:51:55.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "FitnessApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T21:28:19.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:55:39.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Utilizator.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\Utilizator.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Utilizator.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\Utilizator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:42:12.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UtilizatorsController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\UtilizatorsController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Controllers\\UtilizatorsController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Controllers\\UtilizatorsController.cs",
+              "RelativeToolTip": "FitnessApp\\Controllers\\UtilizatorsController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAqwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:41:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Masuratori.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Masuratori.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\Masuratori.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\Masuratori.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\Masuratori.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:46:53.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Antrenaments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Antrenaments\\Delete.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Antrenaments\\Delete.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Antrenaments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:19:38.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Antrenaments\\Create.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Antrenaments\\Create.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Antrenaments\\Create.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Antrenaments\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:19:34.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:21:29.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\LFA\\FitnessApp\\FitnessApp\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\LFA\\FitnessApp\\FitnessApp\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Anul 3\\sem2\\LFA\\FitnessApp\\FitnessApp\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "..\\..\\LFA\\FitnessApp\\FitnessApp\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAIBZwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:10:40.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FitnessApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FitnessApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-18T21:28:40.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Views\\Index.cshtml",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\Views\\Index.cshtml",
+              "RelativeToolTip": "FitnessApp\\Views\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T21:20:10.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\libman.json",
+              "RelativeDocumentMoniker": "FitnessApp\\libman.json",
+              "ToolTip": "C:\\Anul 3\\sem2\\PAW\\FitnessApp_v8-contact\\FitnessApp\\libman.json",
+              "RelativeToolTip": "FitnessApp\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T19:26:01.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

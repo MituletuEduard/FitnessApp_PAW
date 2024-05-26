@@ -1,0 +1,36 @@
+﻿@model IEnumerable<FitnessApp.Models.Exercise>
+
+@{
+    ViewData["Title"] = "Exercise History";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Reps</th>
+            <th>Weight (kg)</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var exercise in Model)
+        {
+            <tr>
+                <td>@exercise.Name</td>
+                <td>@exercise.Description</td>
+                <td>@exercise.Reps</td>
+                <td>@exercise.Weight</td>
+                <td>@exercise.Date</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@exercise.ExerciseId" class="btn btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@exercise.ExerciseId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

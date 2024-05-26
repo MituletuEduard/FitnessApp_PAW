@@ -1,0 +1,15 @@
+﻿@model List<Measurement>
+
+<h1>Masuratori</h1>
+<form asp-action="AddMeasurement" method="post">
+    <label for="weight">Greutate (kg)</label>
+    <input type="number" id="weight" name="weight" placeholder="Introdu marimea in kg" />
+    <button type="submit">Adauga Masurare</button>
+</form>
+
+<ul>
+    @foreach (var measurement in Model)
+    {
+        <li>@measurement.Date.ToShortDateString(): @measurement.Weight kg</li>
+    }
+</ul>
